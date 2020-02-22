@@ -1,13 +1,13 @@
-*Name*
+Name
 - Khilko Vladislav
-*Contact info*
+Contact info 
 - vlad.hilko@gmail.com 
-*Skills"
+Skills
 - Java core, Kotlin, GIT, Android studio
-*Experience*
+Experience
 - java tasks
-*Education*
+Education
 - BSUIR , Java and Kotlin self-education
-*English*
+English
 - A2
 
